@@ -1,0 +1,29 @@
+#details {
+  padding-top: 0;
+}
+
+.details-top {
+  padding: 2rem 0;
+  background: #f5f5f5;
+}
+
+.alumni-link {
+  font-size: .8rem;
+  margin-right: 15px;
+}
+
+.alumni-topbox:nth-child(1) {
+  margin-bottom: 15px;
+}
+
+.alumni-topbox:nth-child(2) {
+  margin: 7px 0;
+}
+
+.details-lead h4 {
+  margin-bottom: 1rem;
+}
+
+.details-box {
+  padding-left: 2rem;
+}

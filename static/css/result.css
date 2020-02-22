@@ -1,0 +1,23 @@
+
+#search-result {
+  padding-top: 2rem;
+}
+
+.alumni-resutl-box {
+	padding: 1rem;
+}
+
+.result-col:nth-child(even){
+  background-color: #f7f7f7;
+}
+
+.alumni-resutl-box img{
+	flex: 2;
+	max-width: 250px;
+}
+
+.alumni-resutl-box .alumni-result-content {
+	flex: 8;
+	margin-left: 1rem;
+	font-style: italic;
+}
